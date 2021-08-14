@@ -8,6 +8,7 @@ public class TestCode : MonoBehaviour
     void Start()
     {
         int a = 6 / 3;
+        int b = 8 / 2;
     }
 
     // Update is called once per frame
